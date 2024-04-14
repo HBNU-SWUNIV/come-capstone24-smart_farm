@@ -15,8 +15,8 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+![image](https://github.com/HBNU-SWUNIV/come-capstone24-smart_farm/assets/165449816/3fa71607-6f49-48c3-8b12-2b4c5878e079)
+
     
 ## Case Study
   - ### Description
